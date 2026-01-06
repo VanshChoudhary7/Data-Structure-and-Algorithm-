@@ -1,4 +1,4 @@
-public class Linear_search {
+public class Selection_sort {
     public static void sort() {
         int[] arr = Data.arr;
         int len = Data.len;

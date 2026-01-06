@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String args[]) {
-        Linear_search.sort();
+        Selection_sort.sort();
         PrintArr.print();
     }
 }
