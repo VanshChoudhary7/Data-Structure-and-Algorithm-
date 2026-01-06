@@ -3,6 +3,6 @@ public class Main {
         
         // Selection_sort.sort();
         Bubble_sort.sort();
-        PrintArr.print();
+        PrintArr.print(); 
     }
 }
